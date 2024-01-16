@@ -8,8 +8,6 @@ I completed this project on 27.07.23 to practise importing and exporting modules
  ## Features
 This is built in JavaScript. It is to be used in node, not the browser.
 ## How to use
-The quizzes can be played in node. Open any of the quiz files, and once the programme is run, the game will begin automatically.
-## Technologies
-JavaScript.
+The quizzes can be played in node. Open any of the quiz files and type "node quiz1.js" (or quiz2.js / quiz3.js) into the terminal to begin the quiz. Type your answers then hit return to move on.
 ## Licence
 Please see license document.
